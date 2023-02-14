@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv NUM 
+printenv 2 NUM 
