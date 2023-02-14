@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:/usr/local/sbin/action
+export PATH=/usr/local/bin/action:$PATH
