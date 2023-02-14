@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BREATH | export LOVE="" | \n 
+echo $((BREATH ** LOVE ))
