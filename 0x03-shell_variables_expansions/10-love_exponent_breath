@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BREATH>LOVE | \n 
+printenv BREATH | export LOVE="" | \n 
