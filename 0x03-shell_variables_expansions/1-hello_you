@@ -1,2 +1,2 @@
 #!/bin/bash
-NAME="id" | echo hello NAME
+printf user="id" "hello user"
