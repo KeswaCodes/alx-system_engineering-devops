@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BREATHE | LOVE
+printenv BREATH>LOVE
