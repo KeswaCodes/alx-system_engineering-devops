@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t . | head
+echo {"a..z"}{"a..z"} | grep -i oo 
